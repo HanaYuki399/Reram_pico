@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Masters/PICO_AES_Steg/Skywater_projects/Reram_digital_blocks/Reram_digital_blocks.srcs/sources_1/new/decoder_control.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_control
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Masters/PICO_AES_Steg/Skywater_projects/Reram_digital_blocks/Reram_digital_blocks.srcs/sources_1/new/decoder_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decoder_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "G:/Masters/PICO_AES_Steg/Skywater_projects/Reram_digital_blocks/Reram_digital_blocks.sim/sim_1/behav/xsim/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

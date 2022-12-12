@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="decoder_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="decoder_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="1204390000000fs"></ZoomStartTime>
+      <ZoomEndTime time="1206690000001fs"></ZoomEndTime>
+      <Cursor1Time time="1205830000000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="101"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="7" />
+   <wvobject fp_name="/decoder_tb/en" type="logic">
+      <obj_property name="ElementShortName">en</obj_property>
+      <obj_property name="ObjectShortName">en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_tb/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_tb/continue" type="logic">
+      <obj_property name="ElementShortName">continue</obj_property>
+      <obj_property name="ObjectShortName">continue</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_tb/out_row" type="array">
+      <obj_property name="ElementShortName">out_row[6:0]</obj_property>
+      <obj_property name="ObjectShortName">out_row[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_tb/out_col" type="array">
+      <obj_property name="ElementShortName">out_col[6:0]</obj_property>
+      <obj_property name="ObjectShortName">out_col[6:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_tb/out_last" type="logic">
+      <obj_property name="ElementShortName">out_last</obj_property>
+      <obj_property name="ObjectShortName">out_last</obj_property>
+   </wvobject>
+</wave_config>
